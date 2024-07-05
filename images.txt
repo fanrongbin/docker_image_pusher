@@ -4,7 +4,13 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=amd64 homeassistant/home-assistant:2023.6.3
-#homeassistant/amd64-hassio-supervisor:2023.06.4
+homeassistant/amd64-hassio-supervisor:2023.06.3
+homeassistant/amd64-hassio-cli:2022.08.0
+homeassistant/amd64-hassio-audio:2022.07.0
+homeassistant/amd64-hassio-dns:2022.04.1
+homeassistant/amd64-hassio-multicast:2022.02.0
+homeassistant/amd64-hassio-observer:2021.10.0
+homeassistant/qemuarm-64-homeassistant:2021.7.3
 #ghcr.io/home-assistant/amd64-hassio-supervisor:2023.06.4
 #ghcr.io/home-assistant/amd64-hassio-cli:2022.08.0
 #ghcr.io/home-assistant/amd64-hassio-audio:2022.07.0
