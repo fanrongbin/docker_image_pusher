@@ -11,12 +11,6 @@ homeassistant/amd64-hassio-dns:2022.04.1
 homeassistant/amd64-hassio-multicast:2022.02.0
 homeassistant/amd64-hassio-observer:2021.10.0
 homeassistant/qemuarm-64-homeassistant:2021.7.3
-#ghcr.io/home-assistant/amd64-hassio-supervisor:2023.06.4
-#ghcr.io/home-assistant/amd64-hassio-cli:2022.08.0
-#ghcr.io/home-assistant/amd64-hassio-audio:2022.07.0
-#ghcr.io/home-assistant/amd64-hassio-dns:2022.04.1
-#ghcr.io/home-assistant/amd64-hassio-multicast:2022.02.0
-#ghcr.io/home-assistant/amd64-hassio-observer:2021.10.0
-#ghcr.io/home-assistant/qemuarm-64-homeassistant:2021.7.4
+frooodle/s-pdf
 
 
