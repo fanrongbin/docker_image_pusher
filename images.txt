@@ -13,4 +13,5 @@
 #homeassistant/qemuarm-64-homeassistant:2021.7.3
 #frooodle/s-pdf
 #hsuyelin/nas-tools
-mailcow/acme
+#mailcow/acme
+nginx:1.22.1
